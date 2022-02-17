@@ -1,3 +1,6 @@
+/**
+ * @author: Daniel Dukundane
+ */
 import { HttpException, HttpStatus } from '@nestjs/common';
 
 export class MeterNotFoundException extends HttpException {
