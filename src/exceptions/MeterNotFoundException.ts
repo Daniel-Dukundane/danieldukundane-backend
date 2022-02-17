@@ -1,8 +1,3 @@
-/**
- * @author: ntwari egide
- * @description: meter not found exception handler implementation
- */
-
 import { HttpException, HttpStatus } from '@nestjs/common';
 
 export class MeterNotFoundException extends HttpException {

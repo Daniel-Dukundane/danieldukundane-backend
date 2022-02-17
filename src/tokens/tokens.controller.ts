@@ -1,8 +1,3 @@
-/**
- * @author: ntwari egide
- * @description: token controller endpoints
- */
-
 import {
     Controller,
     Get,
