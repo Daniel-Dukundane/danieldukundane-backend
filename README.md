@@ -1,2 +1,2 @@
-# Electrica-back-end-implementation---Nest-js-Prisma-Psql
-official repo of  electrica back end implementation
+# EElectricity Token Seller
+official repo of  Electricity Token Seller back end implementation
